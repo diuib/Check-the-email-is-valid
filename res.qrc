@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>res/logo.png</file>
+    <file>res/msgbox.png</file>
+    <file>res/loading.gif</file>
+    <file>res/check_button.gif</file>
+    <file>res/background.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>res/close.png</file>
+    <file>res/hind.png</file>
+  </qresource>
+</RCC>
